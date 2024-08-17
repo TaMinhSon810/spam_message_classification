@@ -1,1 +1,2 @@
-# spam_message_classification
+# Spam Message Classification with Naive Bayes
+This project demonstrates the use of the Naive Bayes algorithm for classifying text messages as either spam or non-spam (ham). The primary objective is to build a text classification model that can accurately predict whether a given message is spam.
